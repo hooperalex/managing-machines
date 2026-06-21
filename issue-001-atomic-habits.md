@@ -69,7 +69,7 @@
 
 **Why people love it:** ruthlessly practical, clear frameworks, and a system you can apply the same afternoon you read it.
 
-**Fair criticisms:** the underlying science isn't new — it repackages behavioral psychology already covered by Charles Duhigg and BJ Fogg. It's anecdote-heavy, light on hard citations, and assumes a fairly stable, privileged life — it says little about habit change under addiction, poverty, or clinical conditions.
+**Fair criticisms:** the underlying science isn't new — it repackages behavioral psychology already covered by Charles Duhigg and BJ Fogg, and it's anecdote-heavy and light on hard citations. Its hero story — British Cycling's "1% marginal gains" — is a survivorship-bias trap: that team also had massive funding, elite coaches, and better equipment, not just better habits. It can be repetitive, and it assumes a fairly stable life, saying little about habit change under addiction, poverty, or clinical conditions.
 
 **Read next:** *The Power of Habit* (Duhigg) for the science, *Tiny Habits* (BJ Fogg) for the behavior-design counterpart, and *Deep Work* (Cal Newport) for applying focus to the habits that matter.
 

@@ -72,6 +72,9 @@ Apply the same system to *operating habits* for managing AI agents:
 ## Pitfalls
 - Clear's science isn't novel — it repackages Duhigg and BJ Fogg; treat it as a practical
   system, not new research.
+- Watch for survivorship bias. The book's hero anecdote (British Cycling's "1% marginal
+  gains") credits habits for results that also came from huge funding, elite coaches, and
+  better equipment. Don't attribute outsized outcomes to habit tweaks alone.
 - It's anecdote-heavy and assumes a fairly stable life; it says little about habit change
   under addiction, poverty, or clinical conditions. Don't over-apply it there.
 - Don't chase the perfect plan — adherence beats optimization. Showing up wins.
