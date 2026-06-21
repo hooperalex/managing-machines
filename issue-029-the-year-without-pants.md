@@ -95,9 +95,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Berkun's field report (culture-as-OS, the P2 written-async default, real-artists-ship, clarity-as-bottleneck, talent-then-autonomy) into an installable AI skill, so your assistant can apply *The Year Without Pants* to your real distributed team **and** your agent fleet on demand.
+Install **The Year Without Pants** as a Claude Code skill — apply Scott Berkun's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the The Year Without Pants skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-year-without-pants)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-year-without-pants
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-year-without-pants)**
 
 ---
 

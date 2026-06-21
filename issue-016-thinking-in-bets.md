@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Duke's decision toolkit (resulting, decisions-as-bets, calibrated confidence, truthseeking pods, CUDOS, and mental time travel) into an installable AI skill, so your assistant can apply *Thinking in Bets* to your real decisions **and** your agent fleet on demand.
+Install **Thinking in Bets** as a Claude Code skill — apply Annie Duke's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Thinking in Bets skill](https://github.com/hooperalex/managing-machines/tree/main/skills/thinking-in-bets)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install thinking-in-bets
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/thinking-in-bets)**
 
 ---
 

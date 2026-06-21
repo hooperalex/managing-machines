@@ -91,9 +91,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Russell's argument (the standard model, the three principles, the King Midas & gorilla problems, assistance games, and corrigible off-switches) into an installable AI skill, so your assistant can apply *Human Compatible* to your real systems **and** your agent fleet on demand.
+Install **Human Compatible** as a Claude Code skill — apply Stuart Russell's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Human Compatible skill](https://github.com/hooperalex/managing-machines/tree/main/skills/human-compatible)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install human-compatible
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/human-compatible)**
 
 ---
 

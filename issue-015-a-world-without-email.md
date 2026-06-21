@@ -89,9 +89,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Newport's antidote to the hive mind (attention capital, the process principle, the protocol principle, and specialization) into an installable AI skill, so your assistant can apply *A World Without Email* to your real team **and** your agent orchestration on demand.
+Install **A World Without Email** as a Claude Code skill — apply Cal Newport's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the A World Without Email skill](https://github.com/hooperalex/managing-machines/tree/main/skills/a-world-without-email)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install a-world-without-email
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/a-world-without-email)**
 
 ---
 

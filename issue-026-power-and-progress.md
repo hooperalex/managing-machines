@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Acemoglu & Johnson's argument — the productivity bandwagon, automate vs. augment, so-so automation, machine usefulness, and the vision oligarchy — into an installable AI skill, so your assistant can pressure-test every automation decision: who captures the gains, and which way is the technology pointed?
+Install **Power and Progress** as a Claude Code skill — apply Daron Acemoglu & Simon Johnson's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Power and Progress skill](https://github.com/hooperalex/managing-machines/tree/main/skills/power-and-progress)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install power-and-progress
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/power-and-progress)**
 
 ---
 

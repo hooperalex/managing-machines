@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Tetlock's playbook (the Ten Commandments, Fermi-izing, outside-vs-inside view, the dragonfly eye, Brier-score calibration, perpetual beta) into an installable AI skill, so your assistant can apply *Superforecasting* to your real decisions **and** your agent fleet on demand.
+Install **Superforecasting** as a Claude Code skill — apply Philip Tetlock & Dan Gardner's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Superforecasting skill](https://github.com/hooperalex/managing-machines/tree/main/skills/superforecasting)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install superforecasting
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/superforecasting)**
 
 ---
 

@@ -95,9 +95,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Harari's *Nexus* — information-as-connection, the naive/populist trap, mythology & bureaucracy, self-correcting mechanisms, and AI as new alien agents — into an installable AI skill, so your assistant can pressure-test your information systems **and** your agent fleet for the missing correction loop, on demand.
+Install **Nexus** as a Claude Code skill — apply Yuval Noah Harari's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Nexus skill](https://github.com/hooperalex/managing-machines/tree/main/skills/nexus)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install nexus
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/nexus)**
 
 ---
 

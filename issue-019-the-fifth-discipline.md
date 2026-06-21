@@ -95,9 +95,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Senge's five disciplines (systems thinking, personal mastery, mental models, shared vision, team learning) plus the system archetypes and leverage into an installable AI skill, so your assistant can apply *The Fifth Discipline* to your real org **and** your agent fleet on demand.
+Install **The Fifth Discipline** as a Claude Code skill — apply Peter Senge's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Fifth Discipline skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-fifth-discipline)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-fifth-discipline
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-fifth-discipline)**
 
 ---
 

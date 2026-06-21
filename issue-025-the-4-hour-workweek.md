@@ -91,9 +91,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Ferriss's system (DEAL, dreamlining, 80/20 + Parkinson's Law, the muse, selective ignorance, and fear-setting) into an installable AI skill, so your assistant can apply *The 4-Hour Workweek* to your real work **and** your agent fleet on demand.
+Install **The 4-Hour Workweek** as a Claude Code skill — apply Tim Ferriss's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the 4-Hour Workweek skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-4-hour-workweek)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-4-hour-workweek
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-4-hour-workweek)**
 
 ---
 

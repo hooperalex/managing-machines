@@ -97,9 +97,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Syed's system (black box thinking, open vs. closed loops, just culture, cognitive dissonance, marginal gains) into an installable AI skill, so your assistant turns every failure — yours **and** your agents' — into recorded, tested, compounding learning.
+Install **Black Box Thinking** as a Claude Code skill — apply Matthew Syed's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Black Box Thinking skill](https://github.com/hooperalex/managing-machines/tree/main/skills/black-box-thinking)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install black-box-thinking
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/black-box-thinking)**
 
 ---
 

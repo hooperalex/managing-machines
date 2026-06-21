@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Brown's design-thinking operating system — the three constraints, the three spaces, human-centered insight, diverge/converge, and build-to-think prototyping — into an installable AI skill, so your assistant can apply *Change by Design* to your real product **and** your agent fleet on demand.
+Install **Change by Design** as a Claude Code skill — apply Tim Brown's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Change by Design skill](https://github.com/hooperalex/managing-machines/tree/main/skills/change-by-design)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install change-by-design
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/change-by-design)**
 
 ---
 

@@ -97,9 +97,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Fried & Hansson's remote-work operating system (talent without hubs, stop managing the chairs, overlap-then-async, the virtual water cooler, beware the dragons) into an installable AI skill, so your assistant can apply *Remote* to your distributed team **and** your agent fleet on demand.
+Install **Remote: Office Not Required** as a Claude Code skill — apply Jason Fried & David Heinemeier Hansson's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Remote skill](https://github.com/hooperalex/managing-machines/tree/main/skills/remote-office-not-required)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install remote-office-not-required
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/remote-office-not-required)**
 
 ---
 

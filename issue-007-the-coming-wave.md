@@ -91,9 +91,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Suleyman's map (the four features, omni-use, ACI, the narrow-path dilemma, and the ten steps to containment) into an installable AI skill, so your assistant can apply *The Coming Wave* to your real tech decisions **and** to governing your agent fleet on demand.
+Install **The Coming Wave** as a Claude Code skill — apply Mustafa Suleyman's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Coming Wave skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-coming-wave)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-coming-wave
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-coming-wave)**
 
 ---
 

@@ -91,9 +91,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled McKeown's discipline (the Essentialist mindset, the 90% Rule, Explore/Eliminate/Execute, the graceful no, buffers and smallest viable progress) into an installable AI skill, so your assistant can apply *Essentialism* to your real priorities **and** your agent fleet on demand.
+Install **Essentialism** as a Claude Code skill — apply Greg McKeown's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Essentialism skill](https://github.com/hooperalex/managing-machines/tree/main/skills/essentialism)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install essentialism
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/essentialism)**
 
 ---
 

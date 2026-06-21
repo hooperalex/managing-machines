@@ -34,18 +34,26 @@ Every issue produces **two** things: a read, and an installable capability.
 Each issue ends with a "🧠 This issue ships a skill" block linking that book's skill — so
 the newsletter doubles as a capability-install channel.
 
-### Installing a skill
+### Installing a skill (marketplace — recommended)
 
-Skills are developed here under `skills/`. To use one in **every** Claude Code session,
-copy its folder into the global skills dir:
+This repo is a **Claude Code plugin marketplace**. Each of the 30 books is its own plugin.
+Add the marketplace once, then install any book:
 
 ```
-C:\Users\hoope\.claude\skills\<book-slug>\SKILL.md
+/plugin marketplace add hooperalex/managing-machines
+/plugin install atomic-habits          # or any book slug
 ```
 
-Then it's available by its `description` trigger (e.g. ask to "build a habit" → the
-`atomic-habits` skill activates). Keep the canonical copy in this repo; the global dir is
-the install target.
+Browse all 30 in [`skills/README.md`](./skills/README.md). The skill then activates by its
+`description` trigger (e.g. ask to "build a habit" → `atomic-habits` kicks in).
+
+**Manual install** (no marketplace): copy a folder into your global skills dir —
+`cp -r skills/<slug> ~/.claude/skills/` (Windows: `C:\Users\hoope\.claude\skills\`).
+
+> **Repo layout:** `skills/<slug>/` is the canonical source. `plugins/<slug>/` is the
+> generated marketplace mirror (each plugin self-contains its skill, per the plugin spec)
+> plus a `.claude-plugin/plugin.json`. The root `.claude-plugin/marketplace.json` lists all
+> 30. Edit skills in `skills/`, then re-mirror into `plugins/` before publishing.
 
 ## The six sections in every issue
 

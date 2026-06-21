@@ -99,9 +99,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Drucker's effectiveness discipline (know thy time, focus on contribution, build on strengths, first things first, the five-element decision process, decision by dissent) into an installable AI skill, so your assistant can apply *The Effective Executive* to your real work **and** your agent fleet on demand.
+Install **The Effective Executive** as a Claude Code skill — apply Peter Drucker's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Effective Executive skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-effective-executive)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-effective-executive
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-effective-executive)**
 
 ---
 

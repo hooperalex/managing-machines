@@ -89,9 +89,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Meadows's toolkit (stocks & flows, feedback loops, system traps, and the twelve leverage points) into an installable AI skill, so your assistant can diagnose the structure behind a problem and find the high-leverage intervention — for your org **and** your agent fleet on demand.
+Install **Thinking in Systems** as a Claude Code skill — apply Donella Meadows's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Thinking in Systems skill](https://github.com/hooperalex/managing-machines/tree/main/skills/thinking-in-systems)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install thinking-in-systems
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/thinking-in-systems)**
 
 ---
 

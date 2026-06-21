@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled McChrystal's operating system (complicated vs. complex, team of teams, shared consciousness, empowered execution, leading like a gardener) into an installable AI skill, so your assistant can apply *Team of Teams* to your real org **and** your agent fleet on demand.
+Install **Team of Teams** as a Claude Code skill — apply Stanley McChrystal's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Team of Teams skill](https://github.com/hooperalex/managing-machines/tree/main/skills/team-of-teams)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install team-of-teams
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/team-of-teams)**
 
 ---
 

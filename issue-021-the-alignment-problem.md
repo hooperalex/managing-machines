@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Christian's map of alignment — specification gaps, embedded bias, fairness trade-offs, reward hacking, curiosity, imitation/IRL, and corrigible uncertainty — into an installable AI skill, so your assistant can apply *The Alignment Problem* to your real systems **and** your agent fleet on demand.
+Install **The Alignment Problem** as a Claude Code skill — apply Brian Christian's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Alignment Problem skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-alignment-problem)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-alignment-problem
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-alignment-problem)**
 
 ---
 

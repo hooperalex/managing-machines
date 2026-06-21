@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Mollick's operating system (the four rules, the jagged frontier, centaurs vs. cyborgs, the AI roles) into an installable AI skill, so your assistant can apply *Co-Intelligence* to your real work **and** your agent fleet on demand.
+Install **Co-Intelligence** as a Claude Code skill — apply Ethan Mollick's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Co-Intelligence skill](https://github.com/hooperalex/managing-machines/tree/main/skills/co-intelligence)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install co-intelligence
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/co-intelligence)**
 
 ---
 

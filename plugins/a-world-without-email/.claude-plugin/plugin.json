@@ -1,0 +1,6 @@
+{
+  "name": "a-world-without-email",
+  "description": "Apply Cal Newport's A World Without Email frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+  "version": "1.0.0",
+  "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" }
+}

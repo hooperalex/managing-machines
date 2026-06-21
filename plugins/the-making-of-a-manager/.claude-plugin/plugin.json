@@ -1,0 +1,6 @@
+{
+  "name": "the-making-of-a-manager",
+  "description": "Apply Julie Zhuo's The Making of a Manager frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+  "version": "1.0.0",
+  "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" }
+}

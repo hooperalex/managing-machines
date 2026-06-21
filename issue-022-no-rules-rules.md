@@ -91,9 +91,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled the Netflix operating system (talent density, the 4A feedback model, the Keeper Test, leading with context, Farming for Dissent) into an installable AI skill, so your assistant can apply *No Rules Rules* to your real team **and** your agent fleet on demand.
+Install **No Rules Rules** as a Claude Code skill — apply Reed Hastings & Erin Meyer's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the No Rules Rules skill](https://github.com/hooperalex/managing-machines/tree/main/skills/no-rules-rules)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install no-rules-rules
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/no-rules-rules)**
 
 ---
 

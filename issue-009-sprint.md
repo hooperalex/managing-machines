@@ -99,9 +99,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Knapp's sprint engine (the five-day arc, start-at-the-end, together-alone sketching, the Decider, Goldilocks prototyping, and five-act testing) into an installable AI skill, so your assistant can run a real sprint — on your team **and** your agent fleet — on demand.
+Install **Sprint** as a Claude Code skill — apply Jake Knapp's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Sprint skill](https://github.com/hooperalex/managing-machines/tree/main/skills/sprint)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install sprint
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/sprint)**
 
 ---
 

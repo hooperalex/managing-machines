@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Goldratt's Theory of Constraints (the goal, throughput/inventory/operating expense, bottlenecks, the Five Focusing Steps, drum-buffer-rope) into an installable AI skill, so your assistant can apply *The Goal* to your real pipeline **and** your agent fleet on demand.
+Install **The Goal** as a Claude Code skill — apply Eliyahu Goldratt's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the The Goal skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-goal)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-goal
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-goal)**
 
 ---
 

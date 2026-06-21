@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Newport's system (the four depth philosophies, deep work rituals, the craftsman tool filter, productive meditation, and draining the shallows) into an installable AI skill, so your assistant can apply *Deep Work* to your real calendar **and** your agent fleet on demand.
+Install **Deep Work** as a Claude Code skill — apply Cal Newport's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Deep Work skill](https://github.com/hooperalex/managing-machines/tree/main/skills/deep-work)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install deep-work
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/deep-work)**
 
 ---
 

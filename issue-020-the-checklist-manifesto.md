@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Gawande's method (problem classification, DO-CONFIRM vs READ-DO, pause points, the five-to-nine killer items, and the team huddle) into an installable AI skill, so your assistant can build and enforce checklists for your real workflows **and** your agent fleet on demand.
+Install **The Checklist Manifesto** as a Claude Code skill — apply Atul Gawande's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Checklist Manifesto skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-checklist-manifesto)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-checklist-manifesto
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-checklist-manifesto)**
 
 ---
 

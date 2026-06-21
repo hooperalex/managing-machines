@@ -1,0 +1,6 @@
+{
+  "name": "the-design-of-everyday-things",
+  "description": "Apply Don Norman's The Design of Everyday Things frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+  "version": "1.0.0",
+  "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" }
+}

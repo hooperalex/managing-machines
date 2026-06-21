@@ -1,0 +1,277 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "managing-machines",
+  "description": "Book skills from the Managing Machines newsletter — distilled author frameworks you can install and apply, to your own work and your AI agent fleet.",
+  "owner": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+  "plugins": [
+    {
+      "name": "atomic-habits",
+      "description": "Apply James Clear's Atomic Habits frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/atomic-habits",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "high-output-management",
+      "description": "Apply Andy Grove's High Output Management frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/high-output-management",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "co-intelligence",
+      "description": "Apply Ethan Mollick's Co-Intelligence frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/co-intelligence",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "team-of-teams",
+      "description": "Apply Stanley McChrystal's Team of Teams frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/team-of-teams",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "thinking-in-systems",
+      "description": "Apply Donella Meadows's Thinking in Systems frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/thinking-in-systems",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "deep-work",
+      "description": "Apply Cal Newport's Deep Work frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/deep-work",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-coming-wave",
+      "description": "Apply Mustafa Suleyman's The Coming Wave frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-coming-wave",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "multipliers",
+      "description": "Apply Liz Wiseman's Multipliers frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/multipliers",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "sprint",
+      "description": "Apply Jake Knapp's Sprint frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/sprint",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "black-box-thinking",
+      "description": "Apply Matthew Syed's Black Box Thinking frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/black-box-thinking",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-effective-executive",
+      "description": "Apply Peter Drucker's The Effective Executive frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-effective-executive",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "human-compatible",
+      "description": "Apply Stuart Russell's Human Compatible frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/human-compatible",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "turn-the-ship-around",
+      "description": "Apply L. David Marquet's Turn the Ship Around! frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/turn-the-ship-around",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-goal",
+      "description": "Apply Eliyahu Goldratt's The Goal frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-goal",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "a-world-without-email",
+      "description": "Apply Cal Newport's A World Without Email frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/a-world-without-email",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "thinking-in-bets",
+      "description": "Apply Annie Duke's Thinking in Bets frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/thinking-in-bets",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "nexus",
+      "description": "Apply Yuval Noah Harari's Nexus frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/nexus",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-making-of-a-manager",
+      "description": "Apply Julie Zhuo's The Making of a Manager frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-making-of-a-manager",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-fifth-discipline",
+      "description": "Apply Peter Senge's The Fifth Discipline frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-fifth-discipline",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-checklist-manifesto",
+      "description": "Apply Atul Gawande's The Checklist Manifesto frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-checklist-manifesto",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-alignment-problem",
+      "description": "Apply Brian Christian's The Alignment Problem frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-alignment-problem",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "no-rules-rules",
+      "description": "Apply Reed Hastings & Erin Meyer's No Rules Rules frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/no-rules-rules",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "change-by-design",
+      "description": "Apply Tim Brown's Change by Design frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/change-by-design",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "superforecasting",
+      "description": "Apply Philip Tetlock & Dan Gardner's Superforecasting frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/superforecasting",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-4-hour-workweek",
+      "description": "Apply Tim Ferriss's The 4-Hour Workweek frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-4-hour-workweek",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "power-and-progress",
+      "description": "Apply Daron Acemoglu & Simon Johnson's Power and Progress frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/power-and-progress",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "remote-office-not-required",
+      "description": "Apply Jason Fried & David Heinemeier Hansson's Remote: Office Not Required frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/remote-office-not-required",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-design-of-everyday-things",
+      "description": "Apply Don Norman's The Design of Everyday Things frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-design-of-everyday-things",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "the-year-without-pants",
+      "description": "Apply Scott Berkun's The Year Without Pants frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/the-year-without-pants",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "essentialism",
+      "description": "Apply Greg McKeown's Essentialism frameworks as a Claude Code skill — for your own work and your AI agent fleet.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Hooper", "email": "hooper.alex@gmail.com" },
+      "source": "./plugins/essentialism",
+      "category": "productivity"
+    }
+  ]
+}

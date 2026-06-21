@@ -91,9 +91,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Marquet's operating system (leader-leader, intent-based leadership, "I intend to…", the control/competence/clarity pillars, and certify-don't-brief) into an installable AI skill, so your assistant can apply *Turn the Ship Around!* to your real team **and** your agent fleet on demand.
+Install **Turn the Ship Around!** as a Claude Code skill — apply L. David Marquet's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Turn the Ship Around! skill](https://github.com/hooperalex/managing-machines/tree/main/skills/turn-the-ship-around)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install turn-the-ship-around
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/turn-the-ship-around)**
 
 ---
 

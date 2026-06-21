@@ -44,9 +44,15 @@ assistant *apply* the author's frameworks — to your own work and to managing a
 
 ## Install a skill (Claude Code)
 
-These are standard Claude Code skills — a folder with a `SKILL.md`. To install one globally:
+**Option A — marketplace (recommended).** This repo is a Claude Code plugin marketplace;
+each book is a plugin. Add it once, then install any book by slug:
 
-**Option A — copy one skill**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install atomic-habits
+```
+
+**Option B — copy one skill folder**
 ```bash
 # macOS/Linux
 cp -r skills/atomic-habits ~/.claude/skills/
@@ -55,7 +61,7 @@ cp -r skills/atomic-habits ~/.claude/skills/
 Copy-Item -Recurse skills\atomic-habits "$env:USERPROFILE\.claude\skills\"
 ```
 
-**Option B — clone the whole repo, then copy what you want**
+**Option C — clone the whole repo, then copy what you want**
 ```bash
 git clone https://github.com/hooperalex/managing-machines.git
 cp -r managing-machines/skills/atomic-habits ~/.claude/skills/

@@ -93,9 +93,14 @@
 
 ### 🧠 This issue ships a skill
 
-Don't just read the frameworks — **install them.** We distilled Norman's toolkit (affordances, signifiers, the six principles, the seven stages of action, the two gulfs, and design-for-error) into an installable AI skill, so your assistant can apply *The Design of Everyday Things* to your real interfaces **and** your agent tool surfaces on demand.
+Install **The Design of Everyday Things** as a Claude Code skill — apply Don Norman's frameworks to your work and your agent fleet on demand. Add the marketplace once, then install this book:
 
-**[⤓ Get the Design of Everyday Things skill](https://github.com/hooperalex/managing-machines/tree/main/skills/the-design-of-everyday-things)**
+```
+/plugin marketplace add hooperalex/managing-machines
+/plugin install the-design-of-everyday-things
+```
+
+**[⤓ Browse the skill on GitHub →](https://github.com/hooperalex/managing-machines/tree/main/plugins/the-design-of-everyday-things)**
 
 ---
 
