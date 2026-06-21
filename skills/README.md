@@ -25,11 +25,11 @@ Copy-Item -Recurse skills\atomic-habits "$env:USERPROFILE\.claude\skills\"
 
 **Option B — clone the whole repo, then copy what you want**
 ```bash
-git clone https://github.com/<owner>/<repo>.git
-cp -r <repo>/skills/atomic-habits ~/.claude/skills/
+git clone https://github.com/hooperalex/managing-machines.git
+cp -r managing-machines/skills/atomic-habits ~/.claude/skills/
 ```
 
 Once installed, the skill activates by its `description` trigger — e.g. ask your assistant
 to help you *build a habit* and the `atomic-habits` skill kicks in.
 
-> Replace `<owner>/<repo>` once the GitHub repo exists.
+Repo: https://github.com/hooperalex/managing-machines

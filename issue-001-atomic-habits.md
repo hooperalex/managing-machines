@@ -93,7 +93,7 @@
 
 Don't just read the frameworks — **install them.** We distilled James Clear's system (the Four Laws, habit stacking, the Two-Minute Rule) into an installable AI skill, so your assistant can apply *Atomic Habits* to your real habits **and** your agent workflows on demand.
 
-**[⤓ Get the Atomic Habits skill](https://simplebook.example/skills/atomic-habits)**
+**[⤓ Get the Atomic Habits skill](https://github.com/hooperalex/managing-machines/tree/main/skills/atomic-habits)**
 
 ---
 
