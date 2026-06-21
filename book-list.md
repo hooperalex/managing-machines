@@ -10,6 +10,15 @@ Each issue = one book, distilled (the 5 sections) **plus** a signature section:
 
 ---
 
+## Production status
+
+✅ **All 30 issues produced (001–030)** — each with an email-safe HTML + Markdown issue, a
+verified Open Library cover, and an installable book skill under [`skills/`](./skills/).
+Issues 003–030 were generated in one run by the `mm-batch-30` workflow (28 agents). QA:
+28/28 files complete, all covers resolve, structural checks clean.
+
+---
+
 ## Track A — Productivity & Management, Reread for Agentic Teams
 
 ### Cluster 1 · Leading Teams at Scale → Leading Agent Fleets
