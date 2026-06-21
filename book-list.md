@@ -15,7 +15,7 @@ Each issue = one book, distilled (the 5 sections) **plus** a signature section:
 ### Cluster 1 · Leading Teams at Scale → Leading Agent Fleets
 | Book | Author | The agentic angle |
 |------|--------|-------------------|
-| **High Output Management** | Andy Grove | Output = your leverage × your team's output. Agents are pure leverage — this is the operating manual. |
+| **High Output Management** *(shipped — Issue 002)* | Andy Grove | Output = your leverage × your team's output. Agents are pure leverage — this is the operating manual. |
 | **Team of Teams** | Stanley McChrystal | "Shared consciousness + empowered execution" is the org design for agent swarms. |
 | **Multipliers** | Liz Wiseman | Be the leader who amplifies capability, not the bottleneck who approves every step. |
 | **Turn the Ship Around!** | David Marquet | Intent-based leadership: give agents *intent*, not step-by-step orders. |

@@ -8,6 +8,7 @@ a book's frameworks into something an assistant can **apply**, not just summariz
 | Skill | From | What it does |
 |-------|------|--------------|
 | [`atomic-habits`](./atomic-habits/) | *Atomic Habits* — James Clear | Apply the Four Laws, habit stacking, the Two-Minute Rule, identity-based habits — for personal habits and for managing agent fleets. |
+| [`high-output-management`](./high-output-management/) | *High Output Management* — Andy Grove | Apply managerial leverage, task-relevant maturity, OKRs, one-on-ones, and the three modes of control — for teams and agent fleets. |
 | [`managing-machines-issue`](./managing-machines-issue/) | (internal) | The producer pipeline that researches a book and emits a new issue + book skill. |
 
 ## Install a skill (Claude Code)
